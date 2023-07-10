@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogame development
 - 🌱 I’m currently learning HaxeFlixel
 - 📫 How to reach me:
-    - Discord: Pivelink#4369
+    - Discord: pivelink1
     - Twitter: @Pivelink1
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeHoovy)](https://github.com/anuraghazra/github-readme-stats)  
