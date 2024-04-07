@@ -1,9 +1,8 @@
-👋 Hi, I’m Beverly, mostly known as Pivelink
+👋 Hi, I’m Oscar, mostly known as Darkar
 - 👀 I’m interested in videogame development
 - 🌱 I’m currently learning HaxeFlixel
 - 📫 How to reach me:
-    - Discord: pivelink1
-    - Twitter: @Pivelink1
+    - Discord: bdarkar206
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeHoovy)](https://github.com/anuraghazra/github-readme-stats)  
 <!---
